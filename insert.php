@@ -1,8 +1,8 @@
 <?php
 
-$servername = "node3.hypernite.com:3306";
-$username = "tch";
-$password = "Anson1112";
+$servername = "";
+$username = "";
+$password = "";
 $dbname = "test_db";
 
 try {
